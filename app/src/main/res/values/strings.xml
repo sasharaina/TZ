@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TZ</string>
+    <string name="name">Name</string>
+    <string name="type">Type</string>
+    <string name="email">Email</string>
+    <string name="organization">Organization</string>
+    <string name="following_count">Following count</string>
+    <string name="followers_count">Followers count</string>
+    <string name="created_at">Created at</string>
+    <string name="website">Website</string>
+    <string name="history">History</string>
+    <string name="go_back">go_back</string>
+</resources>
